@@ -1,1 +1,2 @@
-goog. 
+This is the test for using Git in desktop and push to the gitHub
+Nothing else. 
